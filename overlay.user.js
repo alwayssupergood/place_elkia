@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Place Elkia
+// @name         Place Garfield (double)
 // @namespace    https://elkia.club/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=elkia.club
 // @version      0.4
