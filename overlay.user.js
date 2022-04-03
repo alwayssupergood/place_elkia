@@ -17,8 +17,8 @@
   // image stored as base64 to prevent CORS issues
   const blueprint = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAGCAIAAACjN0L0AAABhGlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AcxV/TiiIVBzOIOGSoThZERQUXrUIRKpRaoVUHk0u/oElDkuLiKLgWHPxYrDq4OOvq4CoIgh8gjk5Oii5S4v+SQosYD4778e7e4+4dINTLTLNCo4Cm22YqHpMy2VWp8xUhBCFiBlMys4y5ZDIB3/F1jwBf76I8y//cn6NHzVkMCEjEs8wwbeIN4slN2+C8TyyyoqwSnxOPmHRB4keuKx6/cS64LPBM0Uyn5olFYqnQxkobs6KpEU8QR1RNp3wh47HKeYuzVq6y5j35C8M5fWWZ6zQHEccilpCEBAVVlFCGjSitOikWUrQf8/EPuP4kuRRylcDIsYAKNMiuH/wPfndr5cfHvKRwDOh4cZyPIaBzF2jUHOf72HEaJ0DwGbjSW/5KHZj+JL3W0iJHQO82cHHd0pQ94HIH6H8yZFN2pSBNIZ8H3s/om7JA3y3Qveb11tzH6QOQpq4SN8DBITBcoOx1n3d3tff275lmfz/O/nLMe5NFOQAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAAd0SU1FB+YEAxUDHM49NQYAAACJSURBVBjTfdChDUJBEIThf/aeoANawqFpAAyFUAAYKkCjkPSCogQIt4O4QF4e4UZMNptvzep439rmEwPKyJl5ELGZ7/sg2la13nIHCOSwnkiMzv6BANbXg0uJrG3+9jcdMIxd1DrpSX6BTstLKkQ1AYlIFAij9Oq86IPBFFumPaJg1J4ElBfQB29gM2bAzD9+rgAAAABJRU5ErkJggg=='
   const placementLocation = {
-    x: 1787,
-    y: 1554
+    x: 1543,
+    y: 1699,
   }
 
   // stole the mappings from https://github.com/rdeepak2002/reddit-place-script-2022/blob/main/mappings.py
